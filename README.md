@@ -1,0 +1,1 @@
+All solved  leetcode Prtoblem 
